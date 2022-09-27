@@ -1,8 +1,8 @@
 # Project- 12 HTML and CSS
 
-![Badge]()
+![Badge](https://img.shields.io/badge/Project--12-Business--idea-green)
 
-# [Link of live Project]()
+# [Link of live Project](https://businessideaser.netlify.app/)
 
 ![Images](./img/landingpage.jpeg)
 
